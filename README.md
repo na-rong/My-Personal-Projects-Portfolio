@@ -17,8 +17,7 @@
 | 1  | **crontab_demo** |  Linux 시스템의 CPU, 메모리, 디스크 사용량을 주기적으로 체크하고 일일 보고서를 생성 | Linux, crontab | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/na-rong/crontab_demo) | 2023-09-13 |
 | 2  | **AverageLoad-Demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
 | 3  | **PAM_demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
-| 3  | **jpa_test** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
-| 3  | **Docker-Image-Optimization-Demo** | 도커 이미지 최적화  | Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/na-rong/Docker-Image-Optimization-Demo) | 2023-09-24 |
+| 4  | **Docker-Image-Optimization-Demo** | 도커 이미지 최적화  | Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/na-rong/Docker-Image-Optimization-Demo) | 2023-09-24 |
 
 
 
@@ -28,9 +27,9 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 스트림과 람다를 사용해 현대적으로 리팩토링 | Java 17, 스트림 API, 람다 표현식 | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/castlhoo/Refactoring) | 2024-07-19 |
-| 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 팀 프로젝트 (6명) | [GitHub 링크](https://github.com/Fisa3/OJT_Project) | 2024-08-02 |
-| 3  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | [GitHub 링크](https://github.com/na-rong/Library-Project) | 2024-08-16 |
+| 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 스트림과 람다를 사용해 현대적으로 리팩토링 | Java 17, 스트림 API, 람다 표현식 | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/na-rong/WooriFISA-java-refactoring) | 2024-07-19 |
+| 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/na-rong/jpa_test) | 2024-08-02 |
+| 3  | **NeoMarket** | 중고&경매 웹사이트 개발 및 ELK 스택 활용 | JPA, ELK, AWS, MySQL, Docker, Redis | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Neo-Market) | 2024-08-16 |
 
 ---
 
