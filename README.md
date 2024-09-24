@@ -16,7 +16,9 @@
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **crontab_demo** |  Linux 시스템의 CPU, 메모리, 디스크 사용량을 주기적으로 체크하고 일일 보고서를 생성 | Linux, crontab | 팀 프로젝트 (3명) | [GitHub 링크](https://github.com/na-rong/crontab_demo) | 2023-09-13 |
 | 2  | **AverageLoad-Demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
-| 3  | **AverageLoad-Demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
+| 3  | **PAM_demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
+| 3  | **jpa_test** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
+| 3  | **PAM_demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
 
 
 이 포트폴리오는 지속적으로 업데이트됩니다.
