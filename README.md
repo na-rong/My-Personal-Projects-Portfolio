@@ -18,6 +18,7 @@
 | 2  | **AverageLoad-Demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
 | 3  | **PAM_demo** | 서버부하 테스트  | Linux | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2023-09-23 |
 | 4  | **Docker-Image-Optimization-Demo** | 도커 이미지 최적화  | Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/na-rong/Docker-Image-Optimization-Demo) | 2023-09-24 |
+| 5  | **Trivy-Monitor** | Trivy를 사용한 취약점 모니터링  | Linux | 팀(4명) 프로젝트 | [GitHub 링크](https://github.com/na-rong/Trivy-Monitor) | 2023-09-25 |
 
 
 
