@@ -18,7 +18,7 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **분산스위치의 구현 및 NSX Preparing** | 분산스위치의 구현 및 활용 | VMware, VSphere,Vritual Switch, | 4명 | [GitHub 링크](https://github.com/na-rong/crontab_demo) | 2024-09-13 |
+| 1 | **분산스위치의 구현 및 NSX Preparing** | 분산스위치의 구현 및 활용 | VMware, VSphere,Vritual Switch, | 4명 | [GitHub 링크](https://github.com/na-rong/WooriFISA3-Seminar-DistributedSwitch) | 2024-09-13 |
 | 2 | **crontab_demo** | Linux 시스템의 CPU, 메모리, 디스크 사용량을 주기적으로 체크하고 일일 보고서를 생성 | Linux, crontab | 3명 | [GitHub 링크](https://github.com/na-rong/crontab_demo) | 2024-09-13 |
 | 3 | **PAM_demo** | 서버부하 테스트 | Linux | 개인 | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2024-09-19 |
 | 4 | **AverageLoad-Demo** | 서버부하 테스트 | Linux | 2명 | [GitHub 링크](https://github.com/na-rong/AverageLoad-Demo) | 2024-09-23 |
